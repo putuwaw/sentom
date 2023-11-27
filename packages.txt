@@ -1,4 +1,3 @@
 gcc
 build-essentials
-python-dev
 python3-dev
